@@ -7,6 +7,6 @@ counter = 0
 while counter < 5:
     print("Counter:", counter)
     counter += 1
-    if counter == 3:
+    if counter == 5:
         break;
    
